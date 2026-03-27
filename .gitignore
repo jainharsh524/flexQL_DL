@@ -1,0 +1,17 @@
+# Build artifacts
+bin/
+build/
+
+# Runtime data directories
+data/
+data-verify/
+data_bench/
+
+# Log files
+*.log
+
+# Duplicate / leftover files
+Makefile copy
+
+# macOS metadata
+.DS_Store
